@@ -1,0 +1,42 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.mainDiv{
+    /* display: flex; */
+    display:  inline-block;
+    /* justify-content: space-between; */
+    justify-content: space-around;
+    align-items: center;
+       
+}
+.flexx{
+    flex-wrap: wrap;
+}
+
+.heading-h2{
+    color: rgb(236, 154, 47);
+    padding: 10px;
+}
+/*  */
+.button{
+    padding: 8px;
+    border-radius: 5px;
+    background-color: rgb(218, 143, 45);
+    border: none;
+    font-size: 15px;
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
